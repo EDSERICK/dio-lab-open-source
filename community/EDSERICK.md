@@ -7,4 +7,4 @@ Atuação Profissional
 
 💻 Estudando tecnologia para outras aplicações.
 
-Estudando Python e Dados.
+Estudando Python e Dados, inclusive programação.
